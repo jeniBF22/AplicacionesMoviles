@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proyecto_Capstone</string>
+    <string name="Usuario" />
+    <string name="User">Usuario</string>
+    <string name="PASSWORD">password\n</string>
+    <string name="PASSWORD1">Password</string>
+    <string name="User1">User</string>
+    <string name="Login">Login\n</string>
+    <string name="Register">O Register</string>
+    <string name="RecoverPassword">Se te olvido la contraseña? Click Aquí</string>
+    <string name="NameAdmin">NameAdmin</string>
+</resources>
